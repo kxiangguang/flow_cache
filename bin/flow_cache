@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'flow_cache'
+puts FlowCache.hi
